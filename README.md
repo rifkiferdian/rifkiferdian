@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rifkiferdian
 - 👀 I’m interested in Backend Programmer
 - 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on build system akademic
+- 💞️ I’m looking to collaborate on build akademic system 
 - 📫 How to reach me rifkiferdian.111@gmail.com
 
 <!---
