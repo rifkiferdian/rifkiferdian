@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Engineer | Web Developer | Laravel & React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Yogyakarta;Laravel+%7C+React+%7C+MySQL+Developer;Building+Web+Apps+for+Real+Business+Needs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Yogyakarta;Web APP+%7C+Mobil APP+%7C+Server Config+Developer;Building+Web+Apps+for+Real+Business+Needs" alt="Typing SVG" />
 </p>
 
 ---
